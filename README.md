@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SZDonnn](https://github.com/SZDonnn)
 
-- 📫 How to reach me **dondioscorojones@gmail.com**
+- 📫 How to reach me **don.platan@talentamp.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1q-XXV5U34Y6xJrNA1D4AETfGIWMkeudf_bjleiKAwRU/edit?usp=sharing](https://docs.google.com/document/d/1q-XXV5U34Y6xJrNA1D4AETfGIWMkeudf_bjleiKAwRU/edit?usp=sharing)
 
