@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Java, Amazon Web Services Technologies, and Spring Framework**
 - ⚡ Fun fact about me:  **I do love cooking.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Learn more about my experiences and the value I can bring to the team by connecting with me on LinkedIn or reviewing my posted projects below!</h3>
 <p align="left">
   <a href="https://linkedin.com/in/don-dioscoro-jones" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
