@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Don!</h1>
-<h3>Backend Software Engineer from Philippines</h3>
+<h3>Java Backend Developer from Philippines</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=szdonn&label=Profile%20views&color=0e75b6&style=flat" alt="szdonn" /> 
