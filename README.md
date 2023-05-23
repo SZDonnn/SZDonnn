@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Don Dioscoro Jones Platan</h1>
+<h1>Hi 👋, I'm Don!</h1>
 <h3>Backend Software Engineer from Philippines</h3>
 
 <p align="left"> 
