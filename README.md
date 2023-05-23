@@ -6,6 +6,7 @@
 </p>
 
 - 🌱 I’m currently learning **Java, Amazon Web Services Technologies, and Spring Framework**
+- ⚡ Fun fact about me:  **I do love cooking.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
